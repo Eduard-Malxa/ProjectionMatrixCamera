@@ -1,0 +1,11 @@
+﻿  ProjectionMatrixCamera.cpp
+C:\Different\CPP Projects\CPP_Learn\Project1\olcConsoleGameEngine.h(1229,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\olcConsoleGameEngine.h(1796,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\olcConsoleGameEngine.h(1893,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Different\CPP Projects\CPP_Learn\Project1\ProjectionMatrixCamera.cpp(168,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\ProjectionMatrixCamera.cpp(168,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\ProjectionMatrixCamera.cpp(167,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\ProjectionMatrixCamera.cpp(167,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\ProjectionMatrixCamera.cpp(166,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Different\CPP Projects\CPP_Learn\Project1\ProjectionMatrixCamera.cpp(166,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Different\CPP Projects\CPP_Learn\Project1\x64\Debug\Project1.exe
